@@ -1,0 +1,4 @@
+Num1 = 3
+Num2 = 2
+Result = Num1 - Num2
+Print Result
