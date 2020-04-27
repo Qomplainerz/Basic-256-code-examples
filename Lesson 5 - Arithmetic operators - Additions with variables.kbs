@@ -1,0 +1,4 @@
+Num1 = 2
+Num2 = 3
+Result = Num1 + Num2
+Print Result
