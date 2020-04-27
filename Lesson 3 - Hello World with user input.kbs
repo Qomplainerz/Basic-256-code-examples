@@ -1,0 +1,4 @@
+Print "Please enter 'Hello, World!' here: ";
+Input Str1
+Print "You have entered: ";
+Print Str1
