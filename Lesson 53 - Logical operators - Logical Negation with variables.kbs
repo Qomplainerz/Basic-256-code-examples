@@ -1,0 +1,4 @@
+Str1 = True
+Str2 = False
+Print "Str1 is not Str2: ";
+Print NOT Str2

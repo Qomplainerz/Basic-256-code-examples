@@ -1,0 +1,6 @@
+Print ("Please enter a number smaller than or equal to 10: ");
+Input Num1
+If Num1 <= 10 Then
+Print Num1;
+Print (" is smaller than or equal to 10.")
+End If

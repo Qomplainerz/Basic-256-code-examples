@@ -1,0 +1,5 @@
+Num3 = 8
+If Num3 < 10 Then
+Print Num3;
+Print (" is smaller than 10.")
+End If

@@ -1,0 +1,4 @@
+Str1 = True
+Str2 = True
+Print " Str1 and Str2 are: ";
+Print Str1 AND Str2

@@ -1,0 +1,6 @@
+Print "Please enter 'True' here: ";
+Input Str1
+Print "Please enter 'True' again: ";
+Input Str2
+Print "Str1 and Str2 are: ";
+Print Str1 AND Str2

@@ -1,0 +1,4 @@
+Str1 = True
+Str2 = False
+Print "True or False is :";
+Print Str1 OR Str2

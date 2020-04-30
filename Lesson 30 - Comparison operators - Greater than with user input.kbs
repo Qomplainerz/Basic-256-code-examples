@@ -1,0 +1,6 @@
+Print ("Please enter a number bigger than 10: ");
+Input Num1
+If Num1 > 10 Then
+Print Num1;
+Print(" is greather than 10.")
+End If

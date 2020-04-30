@@ -1,0 +1,6 @@
+Print "Please enter 'True' here: ";
+Input Str1
+Print "Please enter 'False' here: ";
+Input Str2
+Print "Str1 is not Str2: ";
+Print NOT Str2

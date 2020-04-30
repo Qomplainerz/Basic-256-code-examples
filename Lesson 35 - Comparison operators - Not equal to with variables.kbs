@@ -1,0 +1,5 @@
+Num3 = 9
+If Num3 <> 10 Then
+Print Num3;
+Print (" is not equal to 10.")
+End If

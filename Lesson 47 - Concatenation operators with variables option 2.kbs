@@ -1,0 +1,3 @@
+String1 = "Wonder"
+String2 = "ful"
+Print String1 + String2

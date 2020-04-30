@@ -1,0 +1,5 @@
+Print ("Please enter a string here: ");
+Input Text1
+Print ("Please enter another string here: ");
+Input Text2
+Print Text1 + Text2

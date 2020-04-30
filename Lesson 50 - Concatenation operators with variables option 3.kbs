@@ -1,0 +1,3 @@
+Text1 = "Wonder"
+Text2 = "ful"
+Print Text1 & Text2

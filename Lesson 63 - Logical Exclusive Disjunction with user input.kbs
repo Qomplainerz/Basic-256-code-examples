@@ -1,0 +1,6 @@
+Print "Please enter 'True' here: ";
+Input Str1
+Print "Please enter 'False' here: ";
+Input Str2
+Print "True xor False is: ";
+Print Str1 XOR Str2
