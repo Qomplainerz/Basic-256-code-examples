@@ -1,0 +1,11 @@
+Print ("Please enter a number: ");
+Input Num1
+Print ("Please enter another number: ");
+Input Num2
+Print ("The result of ");
+Print Num1;
+Print (" ^ ");
+Print Num2;
+Print (" is ");
+Print int(Num1 ^ Num2);
+Print (".")
