@@ -1,0 +1,4 @@
+AssignmentOperator1 = 2
+AssignmentOperator2 = 1
+AssignmentOperator1 -= AssignmentOperator2
+Print "You have assigned: " + AssignmentOperator1 + " to AssignmentOperator1."
