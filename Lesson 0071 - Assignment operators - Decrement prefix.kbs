@@ -1,0 +1,3 @@
+AssignmentOperator1 = 2
+AssignmentOperator2 = --AssignmentOperator1
+Print "You have assigned: " + AssignmentOperator1 + " to AssignmentOperator1."
