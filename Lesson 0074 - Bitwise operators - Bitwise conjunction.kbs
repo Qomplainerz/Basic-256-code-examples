@@ -1,0 +1,4 @@
+Str1 = "Wonder"
+Str2 = "ful"
+Str3 = Str1 & Str2
+Print Str3
