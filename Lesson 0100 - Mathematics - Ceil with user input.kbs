@@ -1,0 +1,13 @@
+# Ceil in Basic-256 with user input
+Print "Please enter the first negative number here: "
+Input Num1
+Print "Please enter the second negative number here: "
+Input Num2
+Print "Please enter the third negative number here: "
+Input Num3
+Print "Please enter the fourth negative number here: "
+Input Num4
+Print Ceil(Num1)
+Print Ceil(Num2)
+Print Ceil(Num3)
+Print Ceil(Num4)

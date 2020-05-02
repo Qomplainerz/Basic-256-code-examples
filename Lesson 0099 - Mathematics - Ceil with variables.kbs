@@ -1,0 +1,9 @@
+# Ceil in Basic-256 with variables
+Num1 = - 1.5
+Num2 = - 2.5
+Num3 = - 3.5
+Num4 = - 4.5
+Print Ceil(Num1)
+Print Ceil(Num2)
+Print Ceil(Num3)
+Print Ceil(Num4)
