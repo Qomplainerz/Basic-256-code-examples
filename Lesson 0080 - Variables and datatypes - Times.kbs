@@ -1,0 +1,4 @@
+Hr = 10
+Min = 20
+Sec = 30
+Print "It is " + Hr + ":" + Min + ":" + Sec + "."
