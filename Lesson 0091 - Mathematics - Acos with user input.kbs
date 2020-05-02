@@ -1,0 +1,7 @@
+Print ("Please enter a number: ");
+Input Num1
+Print ("The Acos of ");
+Print Num1;
+Print (" is ");
+Print Acos(Num1);
+Print (".")
