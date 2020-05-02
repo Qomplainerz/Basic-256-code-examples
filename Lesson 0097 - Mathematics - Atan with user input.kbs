@@ -1,0 +1,7 @@
+Print ("Please enter a number: ");
+Input Num1
+Print ("The atan of ");
+Print Num1;
+Print (" is ");
+Print Atan(Num1);
+Print (".")
