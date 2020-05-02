@@ -1,0 +1,5 @@
+dim Arr(10)
+	for Num1 = 0 to Arr[?]-1
+	Arr[Num1] = Num1
+	next Num1
+Print Num1

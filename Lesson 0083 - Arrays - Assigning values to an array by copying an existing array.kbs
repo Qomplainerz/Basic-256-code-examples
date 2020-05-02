@@ -1,0 +1,8 @@
+Arr1 = {0,1,2,3,4,5}
+dim Arr2 = Arr1[]
+Print Arr2[0]
+Print Arr2[1]
+Print Arr2[2]
+Print Arr2[3]
+Print Arr2[4]
+Print Arr2[5]
