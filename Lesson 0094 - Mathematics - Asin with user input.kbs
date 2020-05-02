@@ -1,0 +1,7 @@
+Print ("Please enter a number: ");
+Input Num1
+Print ("The asin of ");
+Print Num1;
+Print (" is ");
+Print Asin(Num1);
+Print (".")
