@@ -1,0 +1,4 @@
+# Abs in Basic-256 with user input
+Print ("Please enter a negative number here: ")
+Input Num1
+Print Abs(Num1)

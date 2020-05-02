@@ -1,0 +1,3 @@
+# Abs in Basic-256 with variables
+Num1 = -5
+Print Abs(Num1)
