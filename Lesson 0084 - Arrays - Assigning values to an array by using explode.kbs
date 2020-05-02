@@ -1,0 +1,2 @@
+Arr1 = explode("I am an array", "with many values")
+Print Arr1[0,0]
