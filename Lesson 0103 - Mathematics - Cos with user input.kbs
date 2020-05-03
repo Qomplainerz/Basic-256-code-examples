@@ -1,0 +1,7 @@
+Print ("Please enter a number: ");
+Input Num1
+Print ("The cos of ");
+Print Num1;
+Print (" is ");
+Print Cos(Num1);
+Print (".")
