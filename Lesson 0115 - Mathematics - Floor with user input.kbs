@@ -1,0 +1,13 @@
+# Floor in Basic-256 with user input
+Print "Please enter the first negative number here: "
+Input Num1
+Print "Please enter the second negative number here: "
+Input Num2
+Print "Please enter the third negative number here: "
+Input Num3
+Print "Please enter the fourth negative number here: "
+Input Num4
+Print Floor(Num1)
+Print Floor(Num2)
+Print Floor(Num3)
+Print Floor(Num4)

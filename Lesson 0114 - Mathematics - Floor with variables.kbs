@@ -1,0 +1,9 @@
+# Floor in Basic-256 with variables
+Num1 = - 1.5
+Num2 = - 2.5
+Num3 = - 3.5
+Num4 = - 4.5
+Print Floor(Num1)
+Print Floor(Num2)
+Print Floor(Num3)
+Print Floor(Num4)
