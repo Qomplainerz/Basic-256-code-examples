@@ -1,0 +1,6 @@
+Print ("Please enter a number of degrees: ");
+Input Num1
+Print Num1;
+Print (" degrees are ");
+Print int(radians(Num1));
+Print (" radians.")

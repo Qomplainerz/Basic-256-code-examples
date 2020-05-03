@@ -1,0 +1,2 @@
+Num1 = 180
+Print int(radians(Num1))
