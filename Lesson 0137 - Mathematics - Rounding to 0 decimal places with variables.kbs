@@ -1,0 +1,2 @@
+Num1 = 0.123456789
+Print round(Num1)
