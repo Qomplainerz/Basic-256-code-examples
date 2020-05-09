@@ -1,0 +1,8 @@
+Num1 = 10
+Num2 = 20
+Num3 = 30
+Num4 = 40
+Print Log10(Num1)
+Print Log10(Num2)
+Print Log10(Num3)
+Print Log10(Num4)
