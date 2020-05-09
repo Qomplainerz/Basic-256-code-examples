@@ -1,0 +1,5 @@
+Print "Please enter a number here: ";
+Input Num1
+Print "Please enter another number here: ";
+Input Num2
+Print Int(Num1 * rand) + Num2
