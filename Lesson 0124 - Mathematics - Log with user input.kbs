@@ -1,0 +1,12 @@
+Print "Please enter a number here: ";
+Input Num1
+Print "Please enter another number here: ";
+Input Num2
+Print "Please enter the third number here: ";
+Input Num3
+Print "Please enter the last number here: ";
+Input Num4
+Print Log (Num1)
+Print Log (Num2)
+Print Log (Num3)
+Print Log (Num4)

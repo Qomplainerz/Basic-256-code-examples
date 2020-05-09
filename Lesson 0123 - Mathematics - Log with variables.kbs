@@ -1,0 +1,8 @@
+Num1 = 1
+Num2 = 2
+Num3 = 3
+Num4 = 4
+Print Log (Num1)
+Print Log (Num2)
+Print Log (Num3)
+Print Log (Num4)
