@@ -1,0 +1,1 @@
+Print Sqr(16)

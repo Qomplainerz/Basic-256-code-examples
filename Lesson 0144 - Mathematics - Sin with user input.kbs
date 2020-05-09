@@ -1,0 +1,7 @@
+Print ("Please enter a number: ");
+Input Num1
+Print ("The sin of ");
+Print Num1;
+Print (" is ");
+Print Sin(Num1);
+Print (".")
